@@ -7,4 +7,4 @@ Tortilla Squad will not upload any code of any type or language and is not respo
 LICENSE
 By connecting to/playing on our server, visiting our website or using our services in any way you agree to the terms below.
 
-Tortilla Squad is not responsible for any damages caused to you, your person or any equipment that may or may not be associated with our server in any way. In other words, if something breaks, it's not our fault. 
+Tortilla Squad is not responsible for any damages caused to you, your person or any equipment that may or may not be associated with our server in any way. In other words, if something breaks or if someone gets hurt, it's not our fault. 
